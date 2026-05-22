@@ -1,12 +1,16 @@
 # Snooker Game
 
-[![Module: CM2030](https://img.shields.io/badge/Module-CM2030-blue)]() [![Status: Complete](https://img.shields.io/badge/Status-Complete-green)]() [![p5.js](https://img.shields.io/badge/p5.js-1.7+-blue)]() [![Matter.js](https://img.shields.io/badge/Matter.js-0.19+-green)]() [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Status: Complete](https://img.shields.io/badge/Status-Complete-green)]() [![p5.js](https://img.shields.io/badge/p5.js-1.7+-blue)]() [![Matter.js](https://img.shields.io/badge/Matter.js-0.19+-green)]() [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A physics-based snooker simulation with realistic ball dynamics, multiple gameplay modes, and an innovative timed precision challenge mode. Built with p5.js for rendering and Matter.js for rigid-body physics.
 
 ## Overview
 
 Snooker Game is an interactive simulation of the classic snooker sport, featuring a fully functional snooker table with pockets, cushions, and physics-accurate ball behavior. Players can aim and strike the cue ball using intuitive mouse and keyboard controls, with support for three standard gameplay modes plus an exclusive dynamic challenge mode (Mode 4).
+
+## Gameplay
+
+![Snooker Game – Mode 1 Gameplay](Assets/snooker-mode1.png)
 
 ## Key Results
 
