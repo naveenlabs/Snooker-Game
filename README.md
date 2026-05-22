@@ -132,6 +132,17 @@ Timed challenge (180 seconds) requiring potting yellow → green → brown in se
 - Coloured balls (multiple simultaneous): Error message, all respotted
 - Cue ball: Returns to D zone for re-placement
 
+## Assets
+
+The `/Assets/` folder contains screenshot galleries for all game modes:
+
+- **[snooker-mode1.png](Assets/snooker-mode1.png)** – Mode 1: Standard Fixed (classic snooker setup)
+- **[snooker-mode2.png](Assets/snooker-mode2.png)** – Mode 2: Random Reds (varied layouts)
+- **[snooker-mode3.png](Assets/snooker-mode3.png)** – Mode 3: Full Random (maximum difficulty)
+- **[snooker-mode4.png](Assets/snooker-mode4.png)** – Mode 4: Dynamic Precision Snooker (timed challenge)
+
+View all images in the [/Assets folder](Assets/)
+
 ## Documentation
 
 Complete project documentation is available in the `/Documentation` folder:
